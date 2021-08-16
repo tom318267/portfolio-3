@@ -36,13 +36,11 @@
         "school": "Bucks County Community College",
         "degree": "Computer Networking",
         "graduated": "July 2016"
-       
       },
       {
         "school": "Neshaminy High School",
         "degree": "High School Diploma",
         "graduated": "June 2004"
-       
       }
     ],
     "work": [
@@ -64,7 +62,6 @@
         "years": "May 2010 - Present",
         "description": "Responsible for taking drink and food orders from a customer. Greeting customers at the table, taking customer orders, dealing with customer issues and complaints, and giving customers their bill."
       }
-      
     ],
     "skills": [
       {
@@ -94,6 +91,12 @@
         "url": "https://triumph-clothing.herokuapp.com/"
       },
       {
+        "title": "AirBnb Clone",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": "https://airbnb-clone-ten-kappa.vercel.app/"
+      },
+      {
         "title": "Storybook",
         "category": "",
         "image": "storybook.jpg",
@@ -105,7 +108,7 @@
         "image": "slack.jpg",
         "url": "https://slack-clone-23df2.firebaseapp.com/"
       },
-   
+
       {
         "title": "Snapchat Clone",
         "category": "",
@@ -126,8 +129,6 @@
         "image": "infinite.jpg",
         "url": "https://infinite.vercel.app/"
       }
-   
-      
     ]
   }
 }
