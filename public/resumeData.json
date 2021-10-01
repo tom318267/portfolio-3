@@ -53,7 +53,7 @@
       {
         "company": "Pest Control Technician",
         "title": "Above All Pest Control",
-        "years": "Sep 2014 - Present",
+        "years": "Sep 2014 - Aug 2021",
         "description": "Responsible for identifying, selecting, mixing, and applying chemical or manual solutions to eliminate pests. Identifies pest problem and appropriate solution, applies chemical or trap, and removes animals."
       },
       {
@@ -103,6 +103,12 @@
         "url": "https://rocky-hamlet-26930.herokuapp.com/"
       },
       {
+        "title": "Hawthorne Apparel",
+        "category": "",
+        "image": "hawthorne.jpg",
+        "url": "https://hawthorne.vercel.app/"
+      },
+      {
         "title": "Slack Clone",
         "category": "",
         "image": "slack.jpg",
@@ -121,13 +127,6 @@
         "category": "",
         "image": "linkedin.jpg",
         "url": "https://linked-in-clone-d75b2.web.app/"
-      },
-
-      {
-        "title": "Infinite",
-        "category": "",
-        "image": "infinite.jpg",
-        "url": "https://infinite.vercel.app/"
       },
       {
         "title": "Diet Guru",
