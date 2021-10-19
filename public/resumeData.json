@@ -133,6 +133,12 @@
         "category": "",
         "image": "dietGuru.jpg",
         "url": "https://diet-guru2.vercel.app/"
+      },
+      {
+        "title": "Fitness App",
+        "category": "",
+        "image": "fitness.png",
+        "url": "https://fitness-app-lake.vercel.app/"
       }
     ]
   }
